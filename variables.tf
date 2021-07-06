@@ -8,7 +8,7 @@ variable "instance_name" {
 variable "region_name" {
   description = "Region of the instance"
   type        = string
-  default     = "us-east-1"
+  default     = "us-west-1"
 }
 
 variable "access_key" {
