@@ -16,7 +16,7 @@ variable "access_key" {
   type        = string
 }
 
-variable "access_secret" {
+variable "secret_key" {
   description = "Region of the instance"
   type        = string
 }
